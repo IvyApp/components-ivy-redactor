@@ -76,7 +76,7 @@ define("ivy-redactor/component",
       destroyRedactor: function() {
         this.removeObserver('value', this, this.valueDidChange);
 
-        this.$().redactor('destroy');
+        this.$().redactor('core.destroy');
       },
 
       initRedactor: Ember.on('didInsertElement', function() {
