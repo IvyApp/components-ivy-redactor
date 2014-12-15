@@ -227,6 +227,14 @@ var define, requireModule, require, requirejs;
       }
     });
   });
+;define("ivy-redactor/index",
+  ["ivy-redactor/components/ivy-redactor","exports"],
+  function(__dependency1__, __exports__) {
+    "use strict";
+    var IvyRedactorComponent = __dependency1__["default"];
+
+    __exports__.IvyRedactorComponent = IvyRedactorComponent;
+  });
 ;/* global define, require */
 define('ivy-redactor-shim', ['exports'], function(__exports__) {
   'use strict';
