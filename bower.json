@@ -1,16 +1,11 @@
 {
   "name": "ivy-redactor",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "authors": [
     "Dray Lacy"
   ],
-  "description": "Ember component for the Redactor WYSIWYG editor.",
-  "main": "dist/globals/main.js",
-  "moduleType": [
-    "amd",
-    "globals",
-    "node"
-  ],
+  "description": "Ember component for Redactor.",
+  "main": "./ivy-redactor-0.2.0.js",
   "keywords": [
     "ember",
     "redactor"
