@@ -1,11 +1,11 @@
 {
   "name": "ivy-redactor",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "authors": [
     "Dray Lacy"
   ],
   "description": "Ember component for Redactor.",
-  "main": "./ivy-redactor-1.0.0-beta.1.js",
+  "main": "./ivy-redactor.js",
   "keywords": [
     "ember",
     "redactor"
