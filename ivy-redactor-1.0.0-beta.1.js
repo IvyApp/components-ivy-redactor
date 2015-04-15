@@ -110,7 +110,7 @@ var define, requireModule, require, requirejs;
   };
 })();
 
-;define("ivy-redactor/components/ivy-redactor",
+;define("ivy-redactor/components/ivy-redactor", 
   ["ember","exports"],
   function(__dependency1__, __exports__) {
     "use strict";
@@ -227,7 +227,7 @@ var define, requireModule, require, requirejs;
       }
     });
   });
-;define("ivy-redactor/index",
+;define("ivy-redactor/index", 
   ["ivy-redactor/components/ivy-redactor","exports"],
   function(__dependency1__, __exports__) {
     "use strict";
